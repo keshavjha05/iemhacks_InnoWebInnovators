@@ -1,9 +1,9 @@
 import React from "react"
 
-import FoundingStory from "../assets/Images/FoundingStory.png"
-import BannerImage1 from "../assets/Images/aboutus1.webp"
-import BannerImage2 from "../assets/Images/aboutus2.webp"
-import BannerImage3 from "../assets/Images/aboutus3.webp"
+import FoundingStory from "../assets/Images/FoundingStory.jpg"
+import BannerImage1 from "../assets/Images/aboutus1.jpg"
+import BannerImage2 from "../assets/Images/aboutus2.jpg"
+import BannerImage3 from "../assets/Images/aboutus3.jpg"
 import Footer from "../components/Common/Footer"
 import ReviewSlider from "../components/Common/ReviewSlider"
 import ContactFormSection from "../components/core/AboutPage/ContactFormSection"
